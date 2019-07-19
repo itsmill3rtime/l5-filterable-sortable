@@ -1,5 +1,5 @@
 {
-    "name": "rafflesargentina/l5-filterable-sortable",
+    "name": "itsmill3rtime/l5-filterable-sortable",
     "description": "A trait for filtering and sorting Query Builder results, based on Laracasts/Dedicated-Query-String-Filtering",
     "keywords": [
         "filter", "sort", "query", "trait", "laravel"
